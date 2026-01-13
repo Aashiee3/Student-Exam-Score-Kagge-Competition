@@ -1,2 +1,2 @@
-# Student-Exam-Score-Kagge-Competition
-Kagge Competition
+# Student-Exam-Score-Kaggle-Competition
+Kaggle Competition
